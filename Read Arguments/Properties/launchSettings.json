@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Read Arguments": {
+      "commandName": "Project",
+      "commandLineArgs": "This is my first argument \"Hello World\" 20"
+    }
+  }
+}
